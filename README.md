@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js**
 
-- 💬 Ask me about **Java, MS SQL**
+- 💬 Ask me about **Java, Spring Boot, MS SQL**
 
 - 📫 How to reach me **poojavchavan97@gmail.com**
 
