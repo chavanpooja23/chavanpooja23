@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **poojavchavan97@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-INYOrKvValIRjMxgC3bfyzPZn6luEzE/view?usp=drive_link">MyResume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10LOcZDOBmRiqaLgpo0VZ4NkEDirMKWm7/view">MyResume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
